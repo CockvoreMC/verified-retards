@@ -3,6 +3,7 @@ Verified retards will be put here, trying to take this repository is useless as 
 ***
 ## Contributing
 To contribute to this repository please create an issue or pull request on this repository with the name of the retard as well as screenshots to prove that he's actually a retard.
+
 **WHEN CREATING A PULL REQUEST PLEASE FOLLOW THE WAY I ADD USERS TO README.md!**
 ***
 #### ENDER1355

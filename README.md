@@ -7,5 +7,5 @@ To contribute to this repository please create an issue or pull request on this 
 **WHEN CREATING A PULL REQUEST PLEASE FOLLOW THE WAY I ADD USERS TO README.md!**
 ***
 #### ENDER1355
-Incompetent at everything he does, stalks random people (including me) on every platform he can find me on. Github, Discord, YouTube, you name it. Doesn't wanna argue and when he's losing an arguement he'll tell you to "piss off" and use an auto block discord plugin on you so he can send you messages but you can't. Aka the biggest fold in history.
+Starting off with the fold-king himself: ENDER1355. This Turkish kid called is incompetent at everything he does. He stalks random people like me online for no reason whatsoever. He legit stalks me on every platform he can find me on such as: Discord, Github, YouTube, you name it. Ender refuses to argue with people and when he does he'll usually block you when you win the argument (hence his name: the fold-king). Ender uses a BetterDiscord plugin to automatically block you so when he sends a message you can unblocked and when it's sent he'll auto-block so you can't send him anything back. Folding is what he does for a living.
 ***

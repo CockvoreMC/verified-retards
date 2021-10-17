@@ -7,7 +7,7 @@ Here's some info for anyone reading this repo:
 - Report this repo all you want. I have it cloned to my desktop and can reupload it in minutes.
 - Not taking any contributions as this repo is made for retards I, myself come across.
 ***
-### GayLord3000 (Now FartLord3000) [Discord ID: 702062261677588550] (GONE SEXUAL) (COPS CALLED) (SHE WASN'T 18???)
+### GayLord3000 [Discord ID: 702062261677588550] (GONE SEXUAL) (COPS CALLED) (SHE WASN'T 18???) (LEFT THE COUNTRY) (CAUGHT IN 4k)
 I'm happy to announce that we finally have another retard!
 This time it's a German 14 year old. Here's some stuff you should know about him before reading through the rest:
 - He's a crystal pvper

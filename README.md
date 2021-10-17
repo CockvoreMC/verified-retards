@@ -1,5 +1,5 @@
 # Verified Retards
-A list of verified retards and people I'm gonna bot.
+A list of verified. And my personal list of people to bot.
 ***
 ## Contributing
 Make an issue with proof of someone being a retard and I'll manually add it to the list.

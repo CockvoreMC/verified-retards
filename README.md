@@ -16,6 +16,3 @@ This time it's a German 14 year old. Here's some stuff you should know about him
 - He calls everything which isn't 1.12.2 retarded because all he does is crystal pvp on the "holy" version of 1.12.2. (Crystal pvpers doing the no packetfly for 0.00001 millisecond challenge moment.)
 - He wants to learn how to code but doesn't spend any time trying to do so. When I explained him how to learn Java he gave up and told me he was gonna learn Python instead. 🤡
 Here's a quick summary of how retarded he is. Begger but hides the fact he's a begger behind a simple "xD" or "jk" after you say no. He only plays 1.8 (for hypixel skyblock) and 1.12.2 (crystal pvp) because 1.13 is "unplayable because crystals are sooooo broken" (sure bud). He thinks buying 1.8 clients is retarded just to bypass an anticheat yet he buys all types of anarchy clients to walk / fly 0.0001 bps faster and to place crystals 1.000001x faster. He legit thought `youtu.be` is an ip logger link (later realizes and acts as if he was trolling after I spammed him with slurs and gore). He ghosts legit everyone in his DMs when he feels like it, but when he asks you something he expects and answer within 1 minute or he'll hit you with da "???".
-
-## WIP
-- GayLord3000 (Not much to change but it's still kinda meh)

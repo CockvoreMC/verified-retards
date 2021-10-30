@@ -1,5 +1,11 @@
-# Verified Retards
-A list of verified.
+
+<h1 align="center">Verified Retards</h1>
+
+<p align="center">A list of verified retards, dumbasses or whatever you wanna call them.</p>
+
+<div align="center">
+  <a href="https://discord.gg/bXztqueqb2"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
+</div>
 
 ## Info
 This repository is made for entertainment and clowning on people. Don't take anything serious, reporting won't work as I'll reupload the repo right after.

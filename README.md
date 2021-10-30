@@ -6,6 +6,6 @@ This repository is made for entertainment and clowning on people. Don't take any
 ***
 ### GayLord3000 [Discord ID: 702062261677588550]
 Retard who calls youtu.be an "iplogger". Then tells me it was a joke and that I "fell" for it.
-
+***
 ## Gallery
 *Gallery of random images of retards.* (WIP)

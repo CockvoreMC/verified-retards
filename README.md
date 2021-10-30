@@ -9,3 +9,6 @@ Retard who calls youtu.be an "iplogger". Then tells me it was a joke and that I 
 
 ## Gallery
 *Gallery of random images of retards.* (WIP)
+
+## Videos
+https://youtu.be/da45ef7rK30

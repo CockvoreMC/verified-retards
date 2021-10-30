@@ -9,7 +9,7 @@ Retard who calls youtu.be an "iplogger". Then tells me it was a joke and that I 
 
 ## Gallery
 *Gallery of random images of retards.* (WIP)
-<p align="center">
+<p align="right">
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/retard_1.jpg" alt="retard_1" width="20%"/>
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/retard_2.jpg" alt="retard_2" width="20%"/>
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/retard_3.png" alt="retard_3" width="20%"/>

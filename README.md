@@ -1,7 +1,7 @@
 
 <h1 align="center">Verified Retards</h1>
 
-<p align="center">A list of verified retards, dumbasses or whatever you wanna call them.</p>
+<p align="center">A list of verified retards, dumbasses or whatever you wanna call them. Join our discord by clicking on the button below.</p>
 
 <div align="center">
   <a href="https://discord.gg/bXztqueqb2"><img src="https://img.shields.io/badge/retard-yes-red" alt="Discord"/></a>

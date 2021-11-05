@@ -1,5 +1,5 @@
 # Gallery
-*Gallery of random images of retards.* (WIP)
+List of random images of retards.
 <p align="left">
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/images/retard_1.jpg" alt="retard 1" width="20%"/>
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/images/retard_2.jpg" alt="retard 2" width="20%"/>

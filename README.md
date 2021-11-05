@@ -12,6 +12,9 @@
 This repository is made for entertainment and clowning on people. Don't take anything serious, reporting won't work as I'll reupload the repo right after.
 
 # Navigation
-## [Gallery](https://github.com/Cypphi/verified-retards/tree/main/gallery)
-## [Users](https://github.com/Cypphi/verified-retards/tree/main/users)
-## [Videos](https://github.com/Cypphi/verified-retards/tree/main/videos)
+## [Gallery](https://github.com/Cypphi/verified-retards/tree/main/gallery) 
+*List of random images of retards.*
+## [Users](https://github.com/Cypphi/verified-retards/tree/main/users) 
+*List of retarded people in the form of text. (People only go here if their stupidity doesn't fit inside a single image. Good job!)*
+## [Videos](https://github.com/Cypphi/verified-retards/tree/main/videos) 
+*List of videos of retards, this may include YouTube videos and such.*

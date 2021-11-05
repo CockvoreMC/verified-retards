@@ -26,8 +26,8 @@ Retard who calls youtu.be an "iplogger". Then tells me it was a joke and that I 
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/retard_8.jpg" alt="retard 8" width="20%"/>
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/retard_9.png" alt="retard 9" width="20%"/>
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/retard_10.png" alt="retard 10" width="20%"/>
-<img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/retard_11.png" alt="retard 11" width="20%"/>
-<img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/retard_12.png" alt="retard 12" width="20%"/>
+<img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/retard_11.jpg" alt="retard 11" width="20%"/>
+<img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/retard_12.jpg" alt="retard 12" width="20%"/>
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/retard_13.jpg" alt="retard 13" width="20%"/>
 </p>
 

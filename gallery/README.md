@@ -14,7 +14,7 @@ List of random images of retards.
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/images/retard_11.jpg" alt="retard 11" width="20%"/>
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/images/retard_12.jpg" alt="retard 12" width="20%"/>
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/images/retard_13.jpg" alt="retard 13" width="20%"/>
-<img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/images/retard_14.png" alt="retard 14" width="20%"/>
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/images/retard_15.png" alt="retard 15" width="20%"/>
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/images/retard_16.png" alt="retard 16" width="20%"/>
+<img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/images/retard_17.png" alt="retard 17" width="20%"/>
 </p>

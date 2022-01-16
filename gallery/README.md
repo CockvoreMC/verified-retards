@@ -1,6 +1,6 @@
 # Gallery
 List of random images of retards.
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/images/retard_1.jpg" alt="retard 1" width="20%"/>
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/images/retard_2.jpg" alt="retard 2" width="20%"/>
 <img src="https://raw.githubusercontent.com/Cypphi/verified-retards/main/gallery/images/retard_3.png" alt="retard 3" width="20%"/>

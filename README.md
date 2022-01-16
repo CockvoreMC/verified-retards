@@ -11,6 +11,11 @@
 # Info
 This repository is made for entertainment and clowning on people. Don't take anything serious, reporting won't work as I'll reupload the repo right after.
 
+# Support
+There's multiple ways you can support the project:
+- Fork the repository so more people see it.
+- Make a pullrequest with a retard I should add to the repository. (Please follow the way I write everything down as well.)
+
 # Navigation
 ## [Gallery](https://github.com/Cypphi/verified-retards/tree/main/gallery) 
 *List of random images of retards.*

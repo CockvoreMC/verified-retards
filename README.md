@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://www.cdc.gov/ncbddd/birthdefects/downsyndrome/images/boy-with-DS-red-shirt-400px.jpg"><img src="https://img.shields.io/badge/retard-yes-red" alt="Retard"/></a>
-  <a href="https://discord.gg/ChH3SmJFWw"><img src="https://img.shields.io/badge/Discord-server-blue" alt="Discord server"/></a>
+  <a href="https://discord.gg/c3VxXhcmgv"><img src="https://img.shields.io/badge/Discord-server-blue" alt="Discord server"/></a>
 </div>
 
 # Info

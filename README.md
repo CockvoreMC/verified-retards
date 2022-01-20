@@ -1,7 +1,7 @@
 
 <h1 align="center">Verified Retards</h1>
 
-<p align="center">A list of verified retards, dumbasses or whatever you wanna call them. Join our discord by clicking on the button below.</p>
+<p align="center">A list of verified retards, dumbasses or whatever you wanna call them. Join our discord server by clicking on the button below.</p>
 
 <div align="center">
   <a href="https://www.cdc.gov/ncbddd/birthdefects/downsyndrome/images/boy-with-DS-red-shirt-400px.jpg"><img src="https://img.shields.io/badge/retard-yes-red" alt="Retard"/></a>
@@ -9,12 +9,7 @@
 </div>
 
 # Info
-This repository is made for entertainment and clowning on people. Don't take anything serious, reporting won't work as I'll reupload the repo right after.
-
-# Support
-There's multiple ways you can support the project:
-- Fork the repository so more people see it.
-- Make a pullrequest with a retard I should add to the repository. (Please follow the way I write everything down as well.)
+This repository is made for entertainment and clowning on people who deserve it.
 
 # Navigation
 ## [Gallery](https://github.com/Cypphi/verified-retards/tree/main/gallery) 

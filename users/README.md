@@ -1,8 +1,6 @@
 # Users
 List of retarded people in the form of text. (People only go here if their stupidity doesn't fit inside a single image. Good job!)
 
-## GayLord3000 [Discord ID: 702062261677588550]
-A very retarded individual who called the URL `youtu.be` an IP-logger. That should be enough to prove my point.
 ## Szypko#1057 [Discord ID: 495680683331813387]
 "Developer" of Focus Client. Same user got exposed in [this](https://youtu.be/bFTdaSgezlk) video of mine for skidding and even failing to skid. You can find his client source [here](https://masterof13fps.com/forum/index.php?threads/focus-client-beta-leak.7852/). Based off of the information we know and have I think we can safely say the client is skidded from FDP, uwuware (their hwid prot) and some other unknown clients. Szypko the insanely good blockgame developer also managed to make module toggle notifications from a tutorial not work. Focus Client has been discontinued and rebranded to "Flun" atfer getting exposed and has later also gone by the name of "ZeroSense" (seems as if ZeroSense (which was also source dumped and made by Szypko) is a complete different client (skid) though.) 
 ## Liulihaocai
